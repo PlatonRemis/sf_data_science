@@ -2,13 +2,13 @@
 
 ### Contents
 
-[1. Description](https://github.com/PlatonRemis/sf_data_science/tree/main/project_0/README.md#Description)
+[1. Description](https://github.com/PlatonRemis/sf_data_science/tree/main/project_0/README.md#description)
 
-[2. What case are we solving](https://github.com/PlatonRemis/sf_data_science/tree/main/project_0/README.md#What-case-are-we-solving)
+[2. What case are we solving](https://github.com/PlatonRemis/sf_data_science/tree/main/project_0/README.md#what-case-are-we-solving)
 
-[3. Short description of data](https://github.com/PlatonRemis/sf_data_science/tree/main/project_0/README.md#Short-description-of-data)
+[3. Short description of data](https://github.com/PlatonRemis/sf_data_science/tree/main/project_0/README.md#short-description-of-data)
 
-[4. Result](https://github.com/PlatonRemis/sf_data_science/tree/main/project_0/README.md#Result)
+[4. Result](https://github.com/PlatonRemis/sf_data_science/tree/main/project_0/README.md#result)
 
 ### Description
 
