@@ -12,7 +12,7 @@
 
 ### Description
 
-Write a program that guesses a number from 1 to 100 in as few attempts as possible
+Write a program that guesses a number from 1 to 100 in as few attempts as possible.
 
 ### Quality Metric
 
@@ -27,8 +27,12 @@ The results are evaluated by the average number of attempts at 1000 repetitions.
 ### Result
 
 My function guesses the number on average in 5.9 attempts.
+
 It also makes no more than 7 attempts.
 
+
 I enjoyed making a proper python project.
+
 Clean and simple code, coments and PEP8 complient style.
+
 Hope I did a good job.
